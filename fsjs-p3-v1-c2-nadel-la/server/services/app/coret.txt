@@ -1,0 +1,9 @@
+npx sequelize-cli model:generate --name User --attributes username:string,email:string,password:string,role:string,phoneNumber:string,address:string
+
+npx sequelize-cli model:generate --name Category --attributes name:string
+
+npx sequelize-cli model:generate --name Item --attributes name:string,description:string,price:integer,imgUrl:string,categoryId:integer,authorId:integer
+
+npx sequelize-cli model:generate --name Ingredient --attributes itemId:integer,name:string
+
+npx sequelize-cli model:generate --name AdditionalImage --attributes itemId:integer,image:string

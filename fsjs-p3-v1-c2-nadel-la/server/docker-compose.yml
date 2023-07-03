@@ -1,0 +1,24 @@
+version: "3.6"
+
+services:
+  app-service:
+    build: ./services/app
+    ports:
+      - "4002:4002"
+    environment:
+      REDIS_PASSWORD: ${REDIS_PASSWORD}
+      SECRET: ${SECRET}
+      DATABASE_URL: ${DATABASE_URL}
+      NODE_ENV: "production"
+
+  user-service:
+    build: ./services/users
+    ports:
+      - "4001:4001"
+
+  orchestrator:
+    build: ./orchestrator
+    ports:
+      - "80:4000"
+    environment:
+      REDIS_PASSWORD: ${REDIS_PASSWORD}

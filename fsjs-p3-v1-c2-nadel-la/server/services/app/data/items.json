@@ -1,0 +1,42 @@
+[
+  {
+    "name": "ORIGINAL PRETZEL",
+    "description": "Every single pretzel is an original, and freshly baked to raise the standard of snacking. It’s the pretzel that started it all — made from five simple, fresh ingredients.",
+    "price": "35000",
+    "imgUrl": "https://www.auntieannes.com/-/media/auntie-annes/cards/featured/pretzels/pretzel-original-406x186.jpg?v=1&d=20180510T184628Z&la=en&h=186&w=406&hash=ADD69982B9343824EE1196D0C64CF645",
+    "categoryId": "1",
+    "mongoId": "646ee3222ac826ada86026e2"
+  },
+  {
+    "name": "CINNAMON SUGAR PRETZEL",
+    "description": "A soft Cinnamon Sugar Pretzel will satisfy any spirit. It’s hot from the oven, sprinkled with fresh cinnamon, sweet sugar and handed right over.",
+    "price": "38000",
+    "imgUrl": "https://www.auntieannes.com/-/media/auntie-annes/cards/featured/pretzels/pretzel-cinnamon-sugar-406x186.jpg?v=1&d=20180510T184535Z&la=en&h=186&w=406&hash=23C48C6403B237DDBFCA2031AE9F4E6D",
+    "categoryId": "1",
+    "mongoId": "646ee3222ac826ada86026e2"
+  },
+  {
+    "name": "PEPPERONI PRETZEL NUGGETS",
+    "description": "The Pepperoni Pretzel you know and love is now bite-size! Each nugget is topped with a slice of pepperoni and a sprinkle of three-cheese blend.",
+    "price": "39000",
+    "imgUrl": "https://www.auntieannes.com/-/media/auntie-annes/cards/featured/pretzels/pretzel-pepperoni-406x186.jpg?v=1&d=20180510T184635Z&la=en&h=186&w=406&hash=BB49021D649684D11EA6FAFD067F6FC2",
+    "categoryId": "1",
+    "mongoId": "646ee3222ac826ada86026e2"
+  },
+  {
+    "name": "ORIGINAL PRETZEL NUGGETS",
+    "description": "Each nugget is freshly baked to a golden brown. Our nuggets may look mini, but they sure are mighty.",
+    "price": "35000",
+    "imgUrl": "https://www.auntieannes.com/-/media/auntie-annes/cards/featured/pretzels/nuggets-original-406x186.jpg?v=1&d=20180510T184520Z&la=en&h=186&w=406&hash=15DA5F0AAB6DFE53FCF8AB9DADF7109B",
+    "categoryId": "2",
+    "mongoId": "646ee3222ac826ada86026e2"
+  },
+  {
+    "name": "CINNAMON SUGAR PRETZEL NUGGETS",
+    "description": "Small and sweet pretzel nuggets, sprinkled with simple cinnamon sugar, can satisfy even the hungriest. Every single bite is fresh from the oven.",
+    "price": "35000",
+    "imgUrl": "https://www.auntieannes.com/-/media/auntie-annes/cards/featured/pretzels/nuggets-cinnamon-sugar-406x186.jpg?v=1&d=20180510T184507Z&la=en&h=186&w=406&hash=D7087CAC4525AC091D70A07F10563EC6",
+    "categoryId": "2",
+    "mongoId": "646ee3222ac826ada86026e2"
+  }
+]
